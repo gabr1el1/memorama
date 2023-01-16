@@ -1,1 +1,2 @@
-Memory game using tkinter
+Memory game using animals.
+Interface made with tkinter.
